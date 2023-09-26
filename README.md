@@ -18,7 +18,7 @@ e. IP Incus
 
 a. Navigate to the menu bar and select View->Python Interactor \
 b. Download the github repo to your desired path\
-c. In the Python Interactor Shell, type: ```exec(open(r"/automate_angles.py").read())``` \
+c. In the Python Interactor Shell, type: ```exec(open(r"/aut_angles_calc.py").read())``` \
 d. Press ```ENTER``` to run the script and automatically calculate the vertical and horizontal angles
 
 
