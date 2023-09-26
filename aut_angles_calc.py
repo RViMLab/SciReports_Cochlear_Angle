@@ -1,7 +1,3 @@
-#todo exec(open(r"C:\PhD\Irumee/calc_angles.py").read())
-#todo the above is needed in Slicer to run the following script
-#todo exec(open(r"C:\PhD\Irumee/aut_angles_del.py").read())
-
 import numpy as np
 
 # Print angles between slice nodes
