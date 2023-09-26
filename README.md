@@ -1,6 +1,6 @@
 # Automatic Angle Calculation
 This repository contains the implementation developed to perform automatic calculation 
-and visualization of the horizontal and vertical angles as well as the auxilary lines and planes, as presented in the paper: \
+and visualization of the horizontal and vertical angles as well as the auxiliary  lines and planes, as presented in the paper: \
 **"The impact of the size and angle of the cochlear basal turn on translocation of a pre-curved mid-scala cochlear implant electrode"**
 
 ## 1. Download and Install 3D Slicer
